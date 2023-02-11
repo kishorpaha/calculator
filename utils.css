@@ -1,0 +1,32 @@
+.text-center{
+    text-align: center;
+    color: gold;
+    cursor: context-menu;
+}
+
+.text-center:hover{
+    color: white;
+    border: 2px solid gold;
+    border-radius: 20px;
+    border-bottom: none;
+}
+
+.bg-red{
+    background: red;
+}
+
+.mx-auto{
+    margin: auto;
+}
+
+.flex-col{
+    flex-direction: column;
+}
+
+.flex{
+    display: flex;
+}
+
+.items-center{
+    align-items: center;
+}
